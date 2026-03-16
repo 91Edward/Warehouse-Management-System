@@ -37,3 +37,9 @@ Database Connection
 MySQL Database
 
 ## Project Structure
+
+## Application Preview
+
+![Warehouse Management System](screenshots/app.png)
+
+<img width="1197" height="831" alt="github prob" src="https://github.com/user-attachments/assets/7f063ecf-c110-4128-95b8-7a5f9a142490" />
